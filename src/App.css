@@ -1,0 +1,30 @@
+.App {
+   width: 100%;
+   background-color: hsl(213, 19%, 18%);
+   height: 100vh;
+   display: grid;
+   place-items: center;
+}
+
+.button_box {
+   margin: 0 auto;
+   width: 400px;
+   display: flex;
+}
+
+/* .button_box button {
+   display: inline-block;
+   border-radius: 3px;
+   padding: 0.5rem 0;
+   margin: 0.5rem 1rem;
+   width: 11rem;
+   background: transparent;
+   color: white;
+   border: 2px solid white;
+   cursor: pointer;
+} */
+
+/* .button_box .primary {
+   background: white;
+   color: black;
+} */
